@@ -4,6 +4,9 @@
   "private": true,
   "author": "fourside <fourside@gmail.com>",
   "description": "",
+  "scripts": {
+    "build": "npx tsc -p ."
+  },
   "dependencies": {
     "hubot": "^2.19.0",
     "hubot-diagnostics": "0.0.2",
@@ -18,6 +21,7 @@
   },
   "devDependencies": {
     "@types/hubot": "^2.19.2",
+    "@types/node": "^10.5.2",
     "typescript": "^2.9.2"
   }
 }
