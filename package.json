@@ -1,0 +1,20 @@
+{
+  "name": "anpibot",
+  "version": "0.0.0",
+  "private": true,
+  "author": "fourside <fourside@gmail.com>",
+  "description": "",
+  "dependencies": {
+    "hubot": "^2.19.0",
+    "hubot-diagnostics": "0.0.2",
+    "hubot-help": "^0.2.2",
+    "hubot-heroku-keepalive": "^1.0.3",
+    "hubot-pugme": "^0.1.1",
+    "hubot-scripts": "^2.17.2",
+    "hubot-slack": "^4.5.2"
+  },
+  "engines": {
+    "node": "0.10.x"
+  },
+  "devDependencies": {}
+}
